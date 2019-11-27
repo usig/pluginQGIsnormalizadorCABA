@@ -1,1 +1,1 @@
-# pluginQGIsnormalizadorCABA
+# pluginQGISnormalizadorCABA
