@@ -1,0 +1,7 @@
+[general]
+name=NormalizadorDirecciones
+description= Plugin QGIS Normalizador CABA
+version= 1.0
+qgisMinimumVersion=3.0
+author= Valentino Pfarherr	 
+email= valentinopfarherr@gmail.com
