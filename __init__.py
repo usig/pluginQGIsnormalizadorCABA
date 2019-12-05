@@ -93,7 +93,7 @@ class normalizadorCABA():
         
     def initGui(self):
         #Defino el boton con el cual se ejecutara el Plugin
-        self.action = QAction(u'Normalizador CABA', self.iface.mainWindow())
+        self.action = QAction(u'Geocodificador CABA', self.iface.mainWindow())
         self.action.triggered.connect(self.run)
         self.iface.addToolBarIcon(self.action)
 
