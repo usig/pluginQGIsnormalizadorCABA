@@ -1,6 +1,6 @@
 [general]
-name= Plugin Normalizador CABA
-description= Plugin QGIS Normalizador CABA
+name= Plugin Geocodificador CABA
+description= Plugin QGIS Geocodificador CABA
 version= 1.1
 qgisMinimumVersion=3.0
 author= Valentino Pfarherr	 
