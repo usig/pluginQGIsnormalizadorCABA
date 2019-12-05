@@ -1,4 +1,4 @@
-# pluginQGISgeocodificadorCABA
+# Plugin Geocodificador CABA
 Es un plugin de la aplicación QGIS. El mismo levanta un archivo CSV y lo normaliza con la APIs "Servicios USIG y "Datos útiles" de GCBA
 
 ## ¿Como esta compuesto el plugin?
